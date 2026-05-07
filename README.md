@@ -9,7 +9,7 @@ I love working at the intersection of hardware and software — from circuit des
 
 Skills: C/Python/Html/Arduino/Circuit Design/PCB Basics
 
-- 🔭 I’m currently working on https://i.njupt.edu.cn/portal 
+- 🔭 I’m currently working on Nanjing University of Posts and Telecommunications;
 - 🌱 I’m currently learning Python and Machine Learning; and also I’m dedicated to learn Chinese have finished HSK-02 and started HSK-03. 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about  anything, I am happy to help; 
